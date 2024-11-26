@@ -23,7 +23,7 @@ Tkinter (Comes pre-installed with Python, no need for separate installation)
 # How to Run:
 1. Clone the Repository:
 Clone this repository to your local machine using the following command:
-git clone https://github.com/GUI310/PRODIGY_CS_01
+git clone https://github.com/GUI310/PRODIGY_CS_01.git
 
 2. Navigate to the Project Folder:
 cd PRODIGY_CS_01
@@ -67,11 +67,14 @@ The buttons are styled to make them visually appealing, with hover effects and l
 
 Screenshots
 Below are some screenshots showing how the application works:
+##Main Interface
 
 ![Main Interface](main-interface.png)
 
-### Encrypting Text
+### Encrypting Text Interface
+
 ![Encrypting Text](encrypt-text.png)
 
-### Decrypting Text
+### Decrypting Text Interface
+
 ![Decrypting Text](decrypt-text.png)
