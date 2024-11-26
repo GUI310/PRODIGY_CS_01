@@ -30,7 +30,7 @@ cd PRODIGY_CS_01
 
 3. Run the GUI:
 Make sure Python is installed on your system, and run the gui.py file to launch the GUI:
-python gui.py
+**python gui.py**
 
 4. Using the Program:
 Input Message: Enter the text you want to encrypt or decrypt in the "Enter Text" field.
