@@ -68,8 +68,10 @@ The buttons are styled to make them visually appealing, with hover effects and l
 Screenshots
 Below are some screenshots showing how the application works:
 
-Main Interface
+![Main Interface](screenshots/main-interface.png)
 
-Encrypting Text
+### Encrypting Text
+![Encrypting Text](screenshots/encrypt-text.png)
 
-Decrypting Text
+### Decrypting Text
+![Decrypting Text](screenshots/decrypt-text.png)
