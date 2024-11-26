@@ -67,7 +67,7 @@ The buttons are styled to make them visually appealing, with hover effects and l
 
 Screenshots
 Below are some screenshots showing how the application works:
-##Main Interface
+### Main Interface
 
 ![Main Interface](main-interface.png)
 
