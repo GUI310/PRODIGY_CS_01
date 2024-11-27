@@ -23,7 +23,7 @@ Tkinter (Comes pre-installed with Python, no need for separate installation)
 # How to Run:
 1. Clone the Repository:
 Clone this repository to your local machine using the following command:
-git clone https://github.com/GUI310/PRODIGY_CS_01.git
+git clone https://github.com/telegeii/PRODIGY_CS_01.git
 
 2. Navigate to the Project Folder:
 cd PRODIGY_CS_01
